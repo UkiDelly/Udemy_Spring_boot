@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: "restful-web-servicies"
+
+  jackson:
+    property-naming-strategy: SNAKE_CASE
+logging:
+  level:
+    org:
+      springframework: DEBUG
